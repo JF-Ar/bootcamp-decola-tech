@@ -1,18 +1,23 @@
 
 Depois de criar os arquivos novos e diretórios:
- - git status
+##### - git status
 
 Para adicionar os arquivos/diretórios:
- - git add . (Com o ponto são todos os arquivos/diretórios)
+##### - git add . (Com o ponto são todos os arquivos/diretórios)
 --v **local
 
 Agora conferimos:
--git status
+#####-git status
 
 Para colocar no repositorio GitHub
-- git commit -m ‘comentario’
+#####- git commit -m ‘comentario’
 
 (Importante ser um comentario contundente)
 
 E agora sim, os arquivos/diretórios vão para a nuvem.
--git push
+#####-git push
+
+##
+**Link para consultas posteriores sobre markdown**
+
+https://markdown.net.br/sintaxe-basica/
