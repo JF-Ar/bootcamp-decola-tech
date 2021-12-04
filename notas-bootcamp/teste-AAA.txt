@@ -1,0 +1,9 @@
+Testes 
+
+Cria-se um projeto novo dentro da solução com um arquivo de teste, cada método deve ser configurado com o padrão AAA
+
+Arrange (Organizar) responsável por inicializar os objetos e definir valores dos dados que são passados para o método sendo testado
+
+Act (Agir) responsável por por invocar o método sendo testado com os parâmetros organizados
+
+Assert (Declarar) responsável por verificar se a ação do método em teste se comporta conforme o esperado.

@@ -1,0 +1,23 @@
+Introdução ao C# e .NET
+
+.NET é um framework criado pela Microsoft que vai permitir a comunicação entre várias linguagens (CLI), como: Visual Basic, C++, F# e C#;
+
+C#?
+É uma linguagem fortemente tirada. Sintaxe orientada a objetos, baseada em C++.
+
+Solução é um container para organizar os projetos relacionados.
+
+Terminal >
+dotnet new console —framework net6.0 (ou 5.0)
+
+*Namespace* - usado para organizar o código.
+Você pode criar classes do mesmo nome, usando NomeSpace diferentes;
+
+*Classe* - Toda instancia de uma classe é um objeto. 
+Uma classe pode ter campos, propriedades, métodos e eventos dentro. Que são denominados membros.
+
+*Interface* - É uma classe que serve de molde para várias classes.
+Se uma classe impelia uma interface, deve implementar todos os seus membros.
+
+*Enum (Estruturas)* - conjunto de constantes nomeadas que começam do 0 e aumentam de 1 em 1
+

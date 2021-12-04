@@ -1,5 +1,6 @@
-# bootcamp-decola-tech
-Códigos e desafios de projetos do Boot Camp <br>
+# bootcamp-mrv pela Dio
+Nesse repositório, teremos os códigos e desafios de projetos do Boot Camp <br>
+E pequenas notas em 'notas-bootcamp'. 
 Com um único repositorio fica mais fácil de centralizar todos os desafios aqui. <br>
 
 ##
