@@ -1,0 +1,12 @@
+Js é uma linguagem interpretada ao inves de compilada. Ou seja, não precisa passar por um compilador para que seja executado.
+
+Js também é baseada em protótipos que é um conjunto de funçãoes e possibilidades em comum.
+Multiparadigma.
+É comumnete utilizada em web client-side (usada para interação com usuario)
+Segue o padrão ECMAScript, um padrão para varias linguagens.
+
+JSON support vem em 2009;
+
+O ECMAScript 6 foi uma grande atualização. Com orientação a objetos e coisas muito interessantes.
+
+constantes são delcaradas em maiusculo 
