@@ -1,0 +1,5 @@
+Bootstrap>>
+É um framework para sites responsivos. Um dos fremeworks mais conhecidos e usados no mundo
+
+Sempre vamos ter uma classe container, row e col;
+Bootstrap divide em até 12 partes.

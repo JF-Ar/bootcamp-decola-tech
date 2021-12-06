@@ -1,0 +1,33 @@
+Criada em 1996; Você cria regra de estidos para elementos ou grupo de elementos
+
+A regra é formada por seletores (elementos HTML)
+dentro de chaves, você tem as declarações.
+A declaração é formada por uma propriedade e um valor.
+
+No CSS, classes são precedidas por um ponto e Id por #
+
+O id só pode ser usado uma vez por pagina.
+
+O navegador representa cada elemento com uma caixa retangular. Box model.
+margin, border, padding, content
+
+podemos editar em acordo com a ordem onde 1- top 2- diretira 3- inferior 4- esquerdo
+Ou ainda usando de forma especifica> paddinf_top por exemplo;
+Isso são propriedades.
+
+border,border-top,border-right temos 3 valores solid dotted dashed
+border-radius é possível arredondar as bordas.
+
+text-transform > alterna entre maiusculo e minusculo
+text-decoration > linhas no texto
+
+para listas, usamos o list-style-type;
+
+Dimensão e alinhamento:
+Width, Height (altura e largura) px/%
+Max-width, Max-Height (maximo de altura, largura)
+Margin valor alto
+Text aling para o texto.
+
+'padding-top' é melhor para sites coloridos usando o 'container-fluid'
+

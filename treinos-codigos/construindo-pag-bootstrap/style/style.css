@@ -1,0 +1,34 @@
+body{
+    font: 20px azure Arial, sans-serif;
+    background-color: black;
+    
+}
+
+.navbar{
+    background: #084B8A
+}
+
+.img-nav{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    border: 1px solid #084B8A;
+}
+
+.onde-estamos{
+    background-color: black;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.text_{
+    color: azure;
+}
+
+.bg_footler{
+    background-color: blueviolet;
+    
+}
