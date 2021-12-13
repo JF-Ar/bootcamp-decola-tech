@@ -37,5 +37,5 @@ body {
   
   :checked + label {
     text-decoration: line-through;
-    color: grey;
+    color: rgb(86, 1, 103);
   }

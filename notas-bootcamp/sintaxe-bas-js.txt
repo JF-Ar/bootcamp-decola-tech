@@ -1,0 +1,46 @@
+JS é uma programação de alto nível, ou seja, é mais proxima da lingaugem humana.
+
+O uso mais comum é nas paginas web junto com html e css.
+boas praticas externar o script e chama-lo no final do body, antes da tag de fechamento.
+
+Tipagem ::
+A declaração de dados acontece de modo dinâmico no JS, isso significa que a tipagem é fraca. O proprio JS converte a variavel para o valor correspondente.
+
+Variaveis podem guardar todos os tipos de dados.
+
+var é de escopo global.
+let é de escopo local.
+
+constant é para declaração de constantes, valores que não irão ser alterados ao longo do codigo. O JS não vai permitir sua alteração.(ao contrario de 'let' e 'var')
+Em geral, as variaveis são declaradas em maísculas por convenção.
+
+Array é declarado entre colchetes e podem qualquer quaisquer valores. Usando a palavra reservada 'let' Os indices são acessados por numeros inteiros, começando do zero.
+
+forEach() -> itera um array; push() -> adciona um item no final do array; pop() -> remove item no final do array; shift() -> remove um item no início do array; unshift() -> adciona item no início do array; indexOf()-> retorna o índice de um valor; splice() -> remove ou substitui pelo indice.
+
+Objetos são dados que possuem propriedades e valores e devem ser declarados entre chaves; Parece um dicionario python.
+
+'if', 'else' e 'else if' palavra reservada para condicional.
+'else if' é meio que o 'elif' do python.
+
+Funções são comandos de instruções para executar determinadas tarefas.
+Sintaxe basica é:
+function nomeDaFuncao(parametros){
+    ${intrucao};
+}
+nomeDaFuncao()
+
+() -> Indica que é um objeto do tipo function;
+{} -> Indica que é um bloco de instrução;
+parametros servem como variaveis de estado.
+
+Funções declarativas são funções que possuem uso comum.
+(como já tem bastante por aqui)
+
+Expressões de funções:são funções atribuídas à expressão
+onde a nomeação delas é opcional. O JS vai atribuir um nome de acordo com a variavel.
+
+Arrow function são sempre anonimas e não nomeadas. 
+sintaxe basica : var funcao = () =>{
+    ${instrucao};
+}

@@ -10,3 +10,8 @@ JSON support vem em 2009;
 O ECMAScript 6 foi uma grande atualização. Com orientação a objetos e coisas muito interessantes.
 
 constantes são delcaradas em maiusculo 
+
+estrutura basica geralemnte, separada por pastas.
+na pastas assets ficam coisas que não são o html componetes dela. O html fica na raiz do projeto.
+
+Document Object Model > estrutura dos elementstos dentro da janela.
